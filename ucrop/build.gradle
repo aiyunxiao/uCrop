@@ -11,7 +11,7 @@ android {
         //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 28
         versionCode 24
-        versionName "1.0.0"
+        versionName "1.0.1"
 
         vectorDrawables.useSupportLibrary = true
     }
@@ -42,7 +42,7 @@ dependencies {
     implementation 'com.android.support:design:28.0.0'
     implementation 'com.android.support:exifinterface:28.0.0'
     implementation 'com.squareup.okhttp3:okhttp:3.12.1'
-    implementation 'com.github.aiyunxio:MPAndroidChart:1.0.0'
+    implementation 'com.github.aiyunxio:ucrop:1.0.1'
 }
 
 repositories {
