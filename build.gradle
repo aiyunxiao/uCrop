@@ -32,7 +32,6 @@ allprojects {
         maven { url 'http://nexus.iyunxiao.com/repository/maven-public/' }
         mavenCentral()
         maven { url 'https://jitpack.io' }
-        implementation 'com.github.aiyunxio:MPAndroidChart:1.0.0'
 
     }
 }
